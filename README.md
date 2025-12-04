@@ -10,18 +10,10 @@
 
 ### 🌍 Find Me Around the Web
 
-- **Contributing on GitHub:**  
-  <a href="https://github.com/YourUsername?tab=followers">
-    <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=for-the-badge" />
-  </a>
 
-- **Mostly hanging out on X:**  
-  <a href="https://x.com/YourHandle">
-    <img src="https://img.shields.io/badge/Follow-black?logo=x&style=for-the-badge"/>
-  </a>
 
 - **My LinkedIn:**  
-  <a href="https://linkedin.com/in/YourLinkedIn">
+  <a href="https://www.linkedin.com/in/ebraheem-wannous-279736319/">
     <img src="https://img.shields.io/badge/Connect-blue?logo=linkedin&style=for-the-badge"/>
   </a>
 
