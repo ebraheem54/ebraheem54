@@ -1,13 +1,21 @@
-<h1 align="center">👋 Hi, I'm <strong>EBRAHEEM WANNOUS</strong></h1>
+<h1 align="center">
+  👋 Hi, I'm <strong>EBRAHEEM WANNOUS</strong>
+</h1>
 
 <p align="center">
-  Backend Developer • Python & Django • PHP & Laravel • Linux • Docker
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Confetti"/>  
+  Backend Developer • Python & Django • PHP & Laravel 
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/particles-dev/particles-bg/main/assets/particles-bg.gif" width="100%" alt="Particles Background"/>
 </p>
 
 ---
 
 ## 💼 About Me
-I'm a backend developer passionate about building scalable, clean, and reliable systems.  
+I'm a backend developer and a 4th-year Artificial Intelligence student at the University of Damascus.  
+I'm passionate about building scalable, clean, and reliable systems.  
 I enjoy designing backend architectures, working with APIs, and solving real-world problems using modern, robust technologies.
 
 ---
@@ -32,16 +40,6 @@ I enjoy designing backend architectures, working with APIs, and solving real-wor
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 NumberLinke Game (Python)
-Puzzle game using Python — fun, challenging, algorithmic.
-
-### 🔹 QAHWA (Laravel)
-A social platform featuring posts, comments, reactions, messaging, and more.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -54,10 +52,12 @@ A social platform featuring posts, comments, reactions, messaging, and more.
 ## 🌐 Connect With Me
 
 - 🔗 **Portfolio:** https://ebrahheem-wannous.vercel.app  
-- 💼 **LinkedIn:** https://linkedin.com/in/ebrahheem-wannous-27973031b/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ebraheem-wannous-279736319  
 - 📧 **Email:** ebraheen.sy370@gmail.com  
 
 ---
 
 ## 👁️ Visitor Count
-<p align="cent
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ebraheem54&color=brightgreen" alt="Visitor Count"/>
+</p>
