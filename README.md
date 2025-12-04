@@ -30,16 +30,6 @@ I enjoy designing backend architectures, working with APIs, and solving real-wor
 - Enhancing backend performance & database optimization
 - Learning more about DevOps and containerized deployments
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ebraheem54&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebraheem54&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
