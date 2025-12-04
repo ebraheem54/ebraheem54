@@ -55,7 +55,7 @@ A social platform featuring posts, comments, reactions, messaging, and more.
 
 - 🔗 **Portfolio:** https://ebrahheem-wannous.vercel.app  
 - 💼 **LinkedIn:** https://linkedin.com/in/ebrahheem-wannous-27973031b/  
-- 📧 **Email:** ebraheen.sz970@gmail.com  
+- 📧 **Email:** ebraheen.sy370@gmail.com  
 
 ---
 
