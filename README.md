@@ -23,14 +23,7 @@ I enjoy designing backend architectures, working with APIs, and solving real-wor
 - 🐳 Docker  
 - 🔧 Git, GitHub, Bash  
 
----
-
-## 🚀 What I'm Working On
-- Building web apps with **Django** and **Laravel**
-- Enhancing backend performance & database optimization
-- Learning more about DevOps and containerized deployments
-
----
+ 
 
 ## 🌐 Connect With Me
 
