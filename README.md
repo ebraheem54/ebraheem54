@@ -27,7 +27,7 @@ I enjoy designing backend architectures, working with APIs, and solving real-wor
 
 ## 🌐 Connect With Me
 
-- 🔗 **Portfolio:** https://ebraheem-wannous.vercel.app
+- 🔗 **Portfolio:** https://ebraheemwannous.me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ebraheem-wannous  
 - 📧 **Email:** ebraheem.sy370@gmail.com  
 
